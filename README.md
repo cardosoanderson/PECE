@@ -12,9 +12,11 @@ Cada disciplina possui um diretório próprio, identificado por um código e pel
 
 Exemplo:
 
+```text
 Materias/
 └── 003-2026-1_Programacao_Python_IA/
     ├── Apostilas/
     ├── Exercicios/
     ├── Projetos/
     └── README.md
+```
