@@ -1,0 +1,1 @@
+Essa pasta é dedicada a micro projetos do curso de MBA IA USP. Aqui contém uma serie de técnicas e estudos.
