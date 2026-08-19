@@ -8,6 +8,7 @@ Cada diretório representa uma disciplina do curso e segue o padrão:
 ```text
 <ID>-<ANO>-<TRIMESTRE> (<DISCIPLINA>)/
 ├── Apostilas/
+├── Exemplos/
 ├── Exercicios/
 └── Projetos/
 ```
@@ -17,6 +18,7 @@ Cada diretório representa uma disciplina do curso e segue o padrão:
 ```text
 003-2026-1 (Programação em Python para IA)/
 ├── Apostilas/
+├── Exemplos/
 ├── Exercicios/
 └── Projetos/
 ```
